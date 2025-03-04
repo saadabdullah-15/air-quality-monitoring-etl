@@ -7,6 +7,7 @@
 ![Libraries](https://img.shields.io/badge/Libraries-Pandas%2C%20Requests%2C%20Matplotlib%2C%20Folium-lightgrey)
 
 ---
+![bground](https://github.com/user-attachments/assets/2e21f9e3-2b38-4a72-9dd5-7c515e3c50ca)
 
 This project is an automated ETL (Extract, Transform, Load) pipeline to monitor air quality using real-time data from the **OpenAQ API**.  
 I designed and implemented the pipeline in a **Google Colab (Jupyter Notebook)** environment to dynamically analyze and visualize **PM2.5 monitoring locations** across India.
